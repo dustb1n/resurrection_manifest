@@ -41,7 +41,7 @@ PRODUCT_PACKAGES += \
 [Resurrection Remix のビルド方法 - dev:mordiford](http://dev.maud.io/entry/2016/03/18/how-to-build-rr) で `2-b-3` を適当に `mordiford` に読み替えてください。
 
 ```
-repo init -u https://github.com/mordiford/resurrection_manifest.git -b trusty
+repo init -u https://github.com/mordiford/resurrection_manifest.git -b trusty_r70
 ```
 
 ```
